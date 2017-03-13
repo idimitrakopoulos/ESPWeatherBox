@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="addbf543-ca8c-4017-847e-cad0bdc14a2f" name="ESPWeatherBox" url="http://aimless">
+        <fileTransfer host="aimless" port="22" rootFolder="/home/idimitrakopoulos" accessType="SFTP" username="idimitrakopoulos">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
