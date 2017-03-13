@@ -1,0 +1,11 @@
+open ttyUSB0
+ls
+md lib
+mput .*
+cd lib
+lcd lib
+mput .*
+md bmp180
+cd bmp180
+lcd bmp180
+mput .*
