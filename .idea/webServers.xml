@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="addbf543-ca8c-4017-847e-cad0bdc14a2f" name="ESPWeatherBox" url="http://aimless">
-        <fileTransfer host="aimless" port="22" rootFolder="/home/idimitrakopoulos" accessType="SFTP" username="idimitrakopoulos">
+        <fileTransfer host="aimless" port="22" rootFolder="/home/idimitrakopoulos" accessType="SFTP" password="dfc8df9edfc3dfc6df99dfd3dfd9" username="idimitrakopoulos">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
